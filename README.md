@@ -2,6 +2,7 @@
 
 Ruby gem that can compare the content of two files.
 
+
 ## Installation
 
 Add this line to your application's Gemfile:
